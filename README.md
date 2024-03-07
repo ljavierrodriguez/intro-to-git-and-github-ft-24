@@ -23,4 +23,5 @@ git add *
 
 ```shell
 git commit 
+git commit -m "mensaje descriptivo"
 ```
