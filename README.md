@@ -25,3 +25,9 @@ git add *
 git commit 
 git commit -m "mensaje descriptivo"
 ```
+
+-- Ver el historio de cambios dentro del proyecto
+
+```shell
+git log
+```
